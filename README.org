@@ -3,7 +3,12 @@ Simple, stand-alone FASTA Parser for demo purpose. Reads a FASTA file record by
 record, stores records in HASH and HASHES in an ARRAY. Dumps the results
 
 * INSTALL
-git clone https://github.com/BioInf-Wuerzburg/teaching-Fasta-Parser
+#+BEGIN_SRC 
+  git clone https://github.com/BioInf-Wuerzburg/teaching-Fasta-Parser
+#+END_SRC
 
 * USAGE
-perl Fasta-Parser.pl <FASTA>
+#+BEGIN_SRC 
+  perl Fasta-Parser.pl <FASTA>
+#+END_SRC
+
